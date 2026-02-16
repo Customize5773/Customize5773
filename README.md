@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rasya</h1>
 <h3 align="center">who is interested in the world of Developers. from Indonesia</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning Project with Research Team
+Institut Teknologi Sepuluh Nopember (since March 2025)**
 
 - 🌱 I’m currently learning on **Computer Vision**
 
