@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ras Rizkov (Rasya)</h1>
 <h3 align="center">who is interested in the world of Developers. from Indonesia</h3>
 
-![Banner](https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20There👋%20I'm%20Joel%20Quisbert&width=1000&height=80)](https://github.com/Akshay090/svg-banners)
 
 - 🔭 I’m currently working on **Machine Learning Project with Research Team
 Institut Teknologi Sepuluh Nopember (since March 2025)**
