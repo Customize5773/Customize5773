@@ -22,7 +22,6 @@ Institut Teknologi Sepuluh Nopember (since March 2025) & Programming Section of 
 - ⚡ Fun fact **I think i am crazy**
 
 ### Connect with me:
-### Connect with me:
 <a href="https://twitter.com/rasyaprata54012" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" style="height: 20px; width: 20px; margin-right: 10px;" />
 </a>
