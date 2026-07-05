@@ -4,8 +4,9 @@
 
 <img align="center" alt="Coding Life" width="7000" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
 
-- 🔭 I’m currently working on **Machine Learning Project with Research Team
-Institut Teknologi Sepuluh Nopember (March 2025 – June 2026) & Core members of the HYDROSHIP team program division and crew members of the aeroship team**
+- 🔭 **Current Work:**
+  - Core Member (Program Division) of the **HYDROSHIP MRC Team | Surabaya State Maritime Polytechnic**.
+  - Crew Member of the **Aeroship Team**.
 
 - 🌱 I’m currently learning on **ROS2 & GAZEBO**
 
@@ -20,6 +21,46 @@ Institut Teknologi Sepuluh Nopember (March 2025 – June 2026) & Core members of
 - 📫 How to reach me **prtrizbrowinter11001@gmail.com**
 
 - ⚡ Fun fact **I think i am crazy**
+
+---
+
+### 🎓 Education & Organizations
+
+<details>
+<summary><b>📚 Education Background</b></summary>
+<br>
+
+- **Politeknik Perkapalan Negeri Surabaya (PPNS)**
+  - Automation Engineering *(Currently enrolled / preparing since 2025)*
+- **SMKN 1 Udanawu Blitar, Jawa Timur**
+  - Mechatronic Engineering (July 2022 – Apr 2025)
+  - *Relevant courses:* PLC, Industrial Automation, Microcontroller Systems, Pneumatics & Hydraulics, Robotics, and Embedded Systems.
+</details>
+
+<details>
+<summary><b>🤖 Team Robotic SMKN 1 Udanawu (Aug 2022 – Nov 2023)</b></summary>
+<br>
+<blockquote><b>Robotics & Embedded Systems Team Member</b></blockquote>
+</details>
+
+---
+
+### 💼 Professional & Research Experience
+
+<details>
+<summary><b>📐 Research Team - Institut Teknologi Sepuluh Nopember (Mar 2025 – Jun 2026)</b></summary>
+<br>
+<blockquote><b>Machine Learning Researcher</b></blockquote>
+Worked on Machine Learning Projects focused on robotics integration and automation systems.
+</details>
+
+<details>
+<summary><b>🏭 PT Mahatex Indonesia Jaya (Sep 2024 – Feb 2025)</b></summary>
+<br>
+<blockquote><b>Mechanic Intern</b></blockquote>
+</details>
+
+---
 
 ### Connect with me:
 <a href="https://twitter.com/rasyaprata54012" target="_blank">
