@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Machine Learning Project with Research Team
 Institut Teknologi Sepuluh Nopember (since March 2025) & Programming Section of the MRC PPNS Hydroship and Aeroship Team**
 
-- 🌱 I’m currently learning on **Computer Vision**
+- 🌱 I’m currently learning on **ROS2 & GAZEBO**
 
 - 👯 I’m looking to collaborate on **Remotely Operated Vehicle (ROV)**
 
