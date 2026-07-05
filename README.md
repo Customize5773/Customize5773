@@ -5,7 +5,7 @@
 <img align="center" alt="Coding Life" width="7000" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
 
 - 🔭 I’m currently working on **Machine Learning Project with Research Team
-Institut Teknologi Sepuluh Nopember (since March 2025) & Programming Section of the MRC PPNS Hydroship and Aeroship Team**
+Institut Teknologi Sepuluh Nopember (March 2025 – June 2026) & Programming Section of the MRC PPNS Hydroship and Aeroship Team**
 
 - 🌱 I’m currently learning on **ROS2 & GAZEBO**
 
