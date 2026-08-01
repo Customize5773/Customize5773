@@ -5,7 +5,7 @@
 <img align="center" alt="Coding Life" width="7000" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif">
 
 - 🔭 **Current Work:**
-  - Core Member (Program Division) of the **HYDROSHIP MRC Team | Surabaya State Maritime Polytechnic**.
+  - Core Member (Program Division) of the **[HYDROSHIP MRC Team | Surabaya State Maritime Polytechnic](https://hydroships.web.app/)**.
   - Crew Member of the **Aeroship Team**.
 
 - 🌱 I’m currently learning on **ROS2 & GAZEBO**
