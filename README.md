@@ -8,7 +8,7 @@
   - Core Member (Program Division) of the **[HYDROSHIP MRC Team | Surabaya State Maritime Polytechnic](https://hydroships.web.app/)**.
   - Crew Member of the **Aeroship Team**.
 
-- 🌱 I’m currently learning on **ROS2, GAZEBO, AUTONOMOUS AUV/ROV**
+- 🌱 I’m currently learning on **ROS2, GAZEBO, VISION**
 
 - 👯 I’m looking to collaborate on **Autonomous Underwater Vehicle (AUV)**
 
